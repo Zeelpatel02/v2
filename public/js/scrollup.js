@@ -10,10 +10,11 @@ function callback(entries, observer) {
   entries.forEach(entry => {
     if (!entry.isIntersecting) {
       // Show button
-      scrollToTopBtn.classList.add("showBtn")
-    } else {
-      // Hide button
       scrollToTopBtn.classList.remove("showBtn")
+    } 
+    else {
+      // Hide button
+      scrollToTopBtn.classList.add("showBtn")
     }
   });
 }
