@@ -29,7 +29,7 @@ export default function Contact() {
             <div className="social-media-cta">
               <a
                 className="links-icon"
-                href="https://www.linkedin.com/in/zeelpatel210/"
+                href="https://www.linkedin.com/in/pzeel2/"
                 target="_blank"
               >
                 <svg
@@ -42,7 +42,7 @@ export default function Contact() {
               </a>
               <a
                 className="links-icon"
-                href="https://twitter.com/zeelpatel_it"
+                href="https://twitter.com/pzeel2"
                 target="_blank"
               >
                 <svg
@@ -68,7 +68,7 @@ export default function Contact() {
               </a>
               <a
                 className="links-icon"
-                href="http://instagram.com/_zeel.patel"
+                href="http://instagram.com/pzeel2"
                 target="_blank"
               >
                 <svg
@@ -81,7 +81,7 @@ export default function Contact() {
               </a>
               <a
                 className="links-icon"
-                href="https://dribbble.com/zeelpatel210"
+                href="https://dribbble.com/pzeel2"
                 target="_blank"
               >
                 <svg
